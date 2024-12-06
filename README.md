@@ -6,7 +6,7 @@ This project is divided into four experiments, namely dose rate constant determi
 
 The complete experimental procedure will be uploaded after the paper is finally accepted.
 
-Currently, the program uploads four types of shared source code.
+Currently, the program uploads four types of Common source code.
 
 Among them, the source code uses the CADMesh module.
 
